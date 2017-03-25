@@ -1,15 +1,10 @@
 ## Welcome to BettyJang's Pages
 
 My name is 張芳菽.
-This is my [FaceBook](https://www.facebook.com/?ref=tn_tnmn).You can know me better through it.
-And this is my [GitHub](https://github.com/)
 
-### Markdown
+This is my [FaceBook](https://www.facebook.com/?ref=tn_tnmn).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+And this is my [GitHub](https://github.com/).You can know me better through it.
 
 # Header 1
 ## Header 2
