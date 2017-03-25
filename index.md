@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to BettyJang's Pages
 
-You can use the [editor on GitHub](https://github.com/BettyJang/BettyJang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is 張芳菽.
+This is my [FaceBook](https://www.facebook.com/?ref=tn_tnmn).You can know me better through it.
+And this is my [GitHub](https://github.com/)
 
 ### Markdown
 
