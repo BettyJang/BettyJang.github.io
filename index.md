@@ -1,6 +1,6 @@
 ## Welcome to BettyJang's Pages
 
-![](images/table image.png?raw=true)
+[](images/table image.png?raw=true)
 
 My name is 張芳菽.
 
