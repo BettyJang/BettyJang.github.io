@@ -1,7 +1,7 @@
 ## Welcome to BettyJang's Pages
 
  <br />
-    Hi ! <img src="images/images/123456.png" alt="Hello" class="inline"/><br /><br />
+    Hi ! <img src="images/images/123456.png" class="inline"/><br /><br />
 
 My name is 張芳菽.
 
