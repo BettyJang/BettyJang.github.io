@@ -1,6 +1,6 @@
 ## Welcome to BettyJang's Pages
 
-<img src="images/123456.jpg/123456.jpg" alt="hi" class="inline"/>
+<img src="images/images/123456.png" alt="Hello" class="inline"/>
 
 My name is 張芳菽.
 
