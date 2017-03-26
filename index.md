@@ -1,7 +1,5 @@
 ## Welcome to BettyJang's Pages
 
-<img src="images/Emoticons/123456.png" alt="hi" class="inline"/>
-
 My name is 張芳菽.
 
 I am studing the [MIA](http://www.miia.fju.edu.tw/layout/oneorange/vvindex.jsp) at Fu Jeu catholic university
